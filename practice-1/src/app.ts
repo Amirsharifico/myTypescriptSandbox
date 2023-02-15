@@ -1,4 +1,8 @@
-// console.log('Amirs first typescript code')
+
+
+
+
+console.log('Amirs first typescript code')
 
 let site : string = "google.com";
 

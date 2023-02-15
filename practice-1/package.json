@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc app.ts -w"
+    "dev": "tsc -w"
   },
   "keywords": [],
   "author": "",
